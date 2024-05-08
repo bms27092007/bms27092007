@@ -1,16 +1,15 @@
-### Hi there 👋
+### Boas vindas ao seu perfil 💖
 
-<!--
-**bms27092007/bms27092007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Bianca Moreira
 
-Here are some ideas to get you started:
+- Estou estudando na Alura
+- Estou me desenvolvendo na linguagem javascript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+   ### Você entrar em contato comigo 📬
+
+  biancamoreirasilva02@gmail.com
+  
+  @bms27092007
+
+ ![](https://media1.tenor.com/m/P9DFtD3HjcwAAAAd/cat-cats-love.gif)
